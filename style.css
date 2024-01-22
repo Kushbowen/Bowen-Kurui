@@ -1,0 +1,49 @@
+.heading1{
+    color: blue;
+}
+.heading2{
+    font-weight: inherit;
+}
+#myheading{
+    color: red;
+}
+#test{
+    font-family: Chilanka;
+}
+.emobilis{
+    background-color: #5cd0c9;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #050000;
+}
+.mytest {
+    display: flex;
+    background-color: darkgrey;
+    padding: 30px;
+
+}
+.paragraph67{
+    margin-left: 30px;
+}
+.image1{
+    margin-right: 30px;
+}
+.main{
+    display: flex;
+}
+.paragraph1{
+    background-color: #5cd0c9;
+}
+.paragraph2{
+    background-color: #2bde1b;
+
+}
+.paragraph3{
+        background-color: darkgrey;
+    }
+.paragraph4{
+    background-color: #f10a32;
+}
